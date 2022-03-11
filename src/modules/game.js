@@ -1,5 +1,5 @@
 /* eslint-disable operator-linebreak */
-class FireFlyCity {
+class Game {
   constructor() {
     this.endpointURL =
       'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games';
@@ -34,4 +34,4 @@ class FireFlyCity {
   };
 }
 
-export default FireFlyCity;
+export default Game;
