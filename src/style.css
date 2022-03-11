@@ -18,6 +18,7 @@ header {
   width: 85%;
   margin: 0 auto;
 }
+
 main {
   display: flex;
   margin: 70px;
@@ -83,7 +84,6 @@ form {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  width: 20vw;
   background-color: rgb(150, 150, 3);
   width: 100%;
   padding: 20px;
@@ -92,7 +92,6 @@ form {
 
 form input {
   border: 1px solid black;
-  margin-bottom: 15px;
   height: 30px;
   width: 20vw;
   padding: 10px;
